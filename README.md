@@ -8,7 +8,9 @@ Version `1.0`
 ## How to Download   
 1. Python should be installed in your system
 2. Run the following command in terminal
-   ''' git clone https://github.com/Saalim398/NOTEPAD-IN-PYTHON.git
+   ```
+   git clone https://github.com/Saalim398/NOTEPAD-IN-PYTHON.git
    cd NOTEPAD-IN-PYTHON
-   python notepad.py'''
+   python notepad.py
+   ```
 
