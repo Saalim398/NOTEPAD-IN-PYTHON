@@ -1,6 +1,6 @@
 # NOTEPAD-IN-PYTHON
 This Python tkinter package was used to construct an application that resembles Notepad.    
-Version '1.0' 
+Version `1.0` 
 ## Among its features are the following:  
 1. file storage
 2. accessing a previously saved text file
